@@ -1,0 +1,38 @@
+form {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid grey;
+    box-shadow: 4px 4px 4px grey;
+    margin: 0 auto;
+    width: 30%;
+    padding: 12px 20px;
+    background-color: white;
+    margin-bottom: 24px;
+    
+}
+input {
+    margin-bottom: 12px;
+    width: 95%;
+    padding: 8px;
+    box-shadow: 4px 4px 4px grey;
+
+}
+textarea {
+    margin-bottom: 12px;
+    min-width: 98%;
+    height: 70px;
+    box-shadow: 4px 4px 4px grey;
+
+}
+h2 {
+    text-align: center;
+    color: green;
+    font-size: 30px;
+}
+.wrapper {
+    display: flex;
+    margin-bottom: 12px;
+}
+button {
+    padding: 12px;
+}

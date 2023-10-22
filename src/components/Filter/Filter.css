@@ -1,0 +1,10 @@
+select {
+    border: 1px solid grey;
+    width: 15%;
+    padding: 8px 12px;
+    font-size: 18px;
+    box-shadow: 4px 4px 4px grey;
+}
+div {
+    text-align: center;
+}
